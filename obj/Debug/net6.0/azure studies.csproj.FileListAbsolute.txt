@@ -1,0 +1,31 @@
+C:\Users\USUARIO\Desktop\azure studies\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USUARIO\Desktop\azure studies\bin\Debug\net6.0\appsettings.json
+C:\Users\USUARIO\Desktop\azure studies\bin\Debug\net6.0\azure studies.staticwebassets.runtime.json
+C:\Users\USUARIO\Desktop\azure studies\bin\Debug\net6.0\azure studies.exe
+C:\Users\USUARIO\Desktop\azure studies\bin\Debug\net6.0\azure studies.deps.json
+C:\Users\USUARIO\Desktop\azure studies\bin\Debug\net6.0\azure studies.runtimeconfig.json
+C:\Users\USUARIO\Desktop\azure studies\bin\Debug\net6.0\azure studies.dll
+C:\Users\USUARIO\Desktop\azure studies\bin\Debug\net6.0\azure studies.pdb
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\azure studies.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\azure studies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\azure studies.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\azure studies.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\azure studies.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\azure studies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\azure studies.RazorAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\azure studies.RazorAssemblyInfo.cs
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\staticwebassets\msbuild.azure studies.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\staticwebassets\msbuild.build.azure studies.props
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.azure studies.props
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.azure studies.props
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\scopedcss\bundle\azure studies.styles.css
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\scopedcss\projectbundle\azure studies.bundle.scp.css
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\azure studies.dll
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\refint\azure studies.dll
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\azure studies.pdb
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\azure studies.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\azure studies\obj\Debug\net6.0\ref\azure studies.dll
